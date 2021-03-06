@@ -19,20 +19,25 @@ iOS之武功秘籍④：类结构分析[简书地址](https://www.jianshu.com/p/
 iOS之武功秘籍⑤：cache_t分析[简书地址](https://www.jianshu.com/p/90d6eb1354f5) [掘金地址](https://juejin.cn/post/6936444326708936735)
 
 ## 方法与消息
-[iOS之武功秘籍⑥：Runtime之方法与消息](https://www.jianshu.com/p/46b3cd1707c4)
+iOS之武功秘籍⑥：Runtime之方法与消息[简书地址](https://www.jianshu.com/p/46b3cd1707c4) [掘金地址](https://juejin.cn/post/6936539962275807263)
 
 ## 类的加载
 [iOS之武功秘籍⑦: dyld加载流程 -- 应用程序的加载](https://www.jianshu.com/p/fbbf696d3ed7)
+
 [iOS之武功秘籍⑧: 类和分类加载过程](https://www.jianshu.com/p/c5cbc4ae0505)
+
 [iOS之武功秘籍⑨: 类扩展与关联对象](https://www.jianshu.com/p/f14deceaa6e2)
+
 [iOS之武功秘籍⑩: OC底层题目分析](https://www.jianshu.com/p/2221a5ed3be9)
 
 ## KVC、KVO
 [iOS之武功秘籍⑪: KVC原理及自定义](https://www.jianshu.com/p/5b831e302c05)
+
 [iOS之武功秘籍⑫: KVO原理及自定义](https://www.jianshu.com/p/6274fb9fed76)
 
 ## 多线程
 [iOS之武功秘籍⑬: 多线程原理与GCD和NSOperation](https://www.jianshu.com/p/235cb3faa006)
+
 [iOS之武功秘籍⑭: 锁的原理](https://www.jianshu.com/p/a461c668ec23)
 
 ## Block
@@ -40,6 +45,7 @@ iOS之武功秘籍⑤：cache_t分析[简书地址](https://www.jianshu.com/p/90
 
 ## LLVM编译流程与Clang插件开发
 [iOS之武功秘籍⑯: LLVM编译流程](https://www.jianshu.com/p/6c83b5f3286f)
+
 [iOS之武功秘籍⑰: Clang插件开发](https://www.jianshu.com/p/b1fc5e519cff)
 
 ## 启动优化
