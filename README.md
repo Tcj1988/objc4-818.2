@@ -22,7 +22,7 @@ iOS之武功秘籍⑤：cache_t分析[简书地址](https://www.jianshu.com/p/90
 iOS之武功秘籍⑥：Runtime之方法与消息[简书地址](https://www.jianshu.com/p/46b3cd1707c4) [掘金地址](https://juejin.cn/post/6936539962275807263)
 
 ## 类的加载
-[iOS之武功秘籍⑦: dyld加载流程 -- 应用程序的加载](https://www.jianshu.com/p/fbbf696d3ed7)
+iOS之武功秘籍⑦: dyld加载流程 -- 应用程序的加载[简书地址](https://www.jianshu.com/p/fbbf696d3ed7) [掘金地址](https://juejin.cn/post/6936945078543843364)
 
 [iOS之武功秘籍⑧: 类和分类加载过程](https://www.jianshu.com/p/c5cbc4ae0505)
 
