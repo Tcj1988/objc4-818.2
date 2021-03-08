@@ -44,12 +44,15 @@ iOS之武功秘籍⑭: 锁的原理[简书地址](https://www.jianshu.com/p/a461
 iOS之武功秘籍⑮: Block的原理[简书地址](https://www.jianshu.com/p/35e2400843c8) [掘金地址](https://juejin.cn/post/6937219783372832804)
 
 ## LLVM编译流程与Clang插件开发
-[iOS之武功秘籍⑯: LLVM编译流程](https://www.jianshu.com/p/6c83b5f3286f)
+iOS之武功秘籍⑯: LLVM编译流程[简书地址](https://www.jianshu.com/p/6c83b5f3286f) [掘金地址](https://juejin.cn/post/6937226907389788168)
 
-[iOS之武功秘籍⑰: Clang插件开发](https://www.jianshu.com/p/b1fc5e519cff)
+iOS之武功秘籍⑰: Clang插件开发[简书地址](https://www.jianshu.com/p/b1fc5e519cff) [掘金地址](https://juejin.cn/post/6937229938705580068)
 
 ## 启动优化
+iOS之武功秘籍⑱: 启动优化
 
 ## 内存管理
+iOS之武功秘籍⑲: 内存管理
 
 ## App优化
+iOS之武功秘籍⑳: 界面优化

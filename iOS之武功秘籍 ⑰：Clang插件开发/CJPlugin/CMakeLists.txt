@@ -1,0 +1,1 @@
+add_llvm_library( CJPlugin MODULE BUILDTREE_ONLY CJPlugin.cpp)
