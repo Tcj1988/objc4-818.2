@@ -1,0 +1,6 @@
+framework module Pods_TCJService {
+  umbrella header "Pods-TCJService-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,22 @@
+PODS:
+  - TCJDemoSpecs (0.0.1)
+
+DEPENDENCIES:
+  - TCJDemoSpecs (from `https://github.com/Tcj1988/TCJDemoSpecs.git`, tag `0.0.1`)
+
+EXTERNAL SOURCES:
+  TCJDemoSpecs:
+    :git: https://github.com/Tcj1988/TCJDemoSpecs.git
+    :tag: 0.0.1
+
+CHECKOUT OPTIONS:
+  TCJDemoSpecs:
+    :git: https://github.com/Tcj1988/TCJDemoSpecs.git
+    :tag: 0.0.1
+
+SPEC CHECKSUMS:
+  TCJDemoSpecs: 23496c3d9cb13a05aa515abf06fa7c6132c1ab4d
+
+PODFILE CHECKSUM: bd78447aeb969ce62e77f0e2d3b97e6573a8633e
+
+COCOAPODS: 1.10.1

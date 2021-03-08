@@ -1,0 +1,53 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '10.0'
+inhibit_all_warnings!
+use_frameworks!
+
+#配置workspace路径
+workspace 'TestModule.xcworkspace'
+
+################# 三方依赖
+# 公有
+def workspace_pods
+  pod 'SwiftyJSON'
+end
+
+# 主工程
+def project_only_pods
+  pod 'SnapKit'
+end
+
+#网络
+def network_layer_pods
+  pod 'Alamofire', '~> 5.4.1'
+end
+################# 模块
+target 'TCJService' do
+  #配置libray路径
+  project '/Users/changjiang/Desktop/iOS/21-组件化/本地组件化/TCJService/TCJService.xcodeproj '
+  
+  workspace_pods
+  network_layer_pods
+
+end
+
+################# 主工程
+target 'TestModule' do
+  # Comment the next line if you don't want to use dynamic frameworks
+
+  # Pods for TestModule
+    workspace_pods
+    project_only_pods
+    network_layer_pods
+
+  target 'TestModuleTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+  target 'TestModuleUITests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end

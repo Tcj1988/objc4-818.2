@@ -1,0 +1,31 @@
+{
+  "name": "TCJDemoSpecs",
+  "version": "0.0.1",
+  "summary": "A short description of TCJDemoSpecs.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Tcj1988/TCJDemoSpecs",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Tcj1988": "310537065@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/Tcj1988/TCJDemoSpecs.git",
+    "tag": "0.0.1"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "TCJDemoSpecs/Classes/**/*",
+  "resource_bundles": {
+    "TCJDemoSpecs": [
+      "TCJDemoSpecs/Assets/*"
+    ]
+  },
+  "frameworks": [
+    "UIKit",
+    "MapKit"
+  ]
+}

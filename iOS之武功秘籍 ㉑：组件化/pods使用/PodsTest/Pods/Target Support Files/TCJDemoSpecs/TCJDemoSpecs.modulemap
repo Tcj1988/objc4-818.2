@@ -1,0 +1,6 @@
+framework module TCJDemoSpecs {
+  umbrella header "TCJDemoSpecs-umbrella.h"
+
+  export *
+  module * { export * }
+}
