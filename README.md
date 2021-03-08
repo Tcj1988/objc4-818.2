@@ -26,7 +26,7 @@ iOS之武功秘籍⑦: dyld加载流程 -- 应用程序的加载[简书地址](h
 
 iOS之武功秘籍⑧: 类和分类加载过程[简书地址](https://www.jianshu.com/p/c5cbc4ae0505) [掘金地址](https://juejin.cn/post/6936978891126865928)
 
-[iOS之武功秘籍⑨: 类扩展与关联对象](https://www.jianshu.com/p/f14deceaa6e2)
+iOS之武功秘籍⑨: 类扩展与关联对象[简书地址](https://www.jianshu.com/p/f14deceaa6e2) [掘金地址](https://juejin.cn/post/6937166713645432845)
 
 [iOS之武功秘籍⑩: OC底层题目分析](https://www.jianshu.com/p/2221a5ed3be9)
 
