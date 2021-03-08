@@ -41,7 +41,7 @@ iOS之武功秘籍⑬: 多线程原理与GCD和NSOperation[简书地址](https:/
 iOS之武功秘籍⑭: 锁的原理[简书地址](https://www.jianshu.com/p/a461c668ec23) [掘金地址](https://juejin.cn/post/6937206660981063693)
 
 ## Block
-[iOS之武功秘籍⑮: Block的原理](https://www.jianshu.com/p/35e2400843c8)
+iOS之武功秘籍⑮: Block的原理[简书地址](https://www.jianshu.com/p/35e2400843c8) [掘金地址](https://juejin.cn/post/6937219783372832804)
 
 ## LLVM编译流程与Clang插件开发
 [iOS之武功秘籍⑯: LLVM编译流程](https://www.jianshu.com/p/6c83b5f3286f)
