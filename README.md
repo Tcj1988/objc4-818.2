@@ -33,7 +33,7 @@ iOS之武功秘籍⑩: OC底层题目分析[简书地址](https://www.jianshu.co
 ## KVC、KVO
 iOS之武功秘籍⑪: KVC原理及自定义[简书地址](https://www.jianshu.com/p/5b831e302c05) [掘金地址](https://juejin.cn/post/6937179290983219214)
 
-[iOS之武功秘籍⑫: KVO原理及自定义](https://www.jianshu.com/p/6274fb9fed76)
+iOS之武功秘籍⑫: KVO原理及自定义[简书地址](https://www.jianshu.com/p/6274fb9fed76) [掘金地址](https://juejin.cn/post/6937183586256683038)
 
 ## 多线程
 [iOS之武功秘籍⑬: 多线程原理与GCD和NSOperation](https://www.jianshu.com/p/235cb3faa006)
