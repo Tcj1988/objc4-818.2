@@ -36,7 +36,7 @@ iOS之武功秘籍⑪: KVC原理及自定义[简书地址](https://www.jianshu.c
 iOS之武功秘籍⑫: KVO原理及自定义[简书地址](https://www.jianshu.com/p/6274fb9fed76) [掘金地址](https://juejin.cn/post/6937183586256683038)
 
 ## 多线程
-[iOS之武功秘籍⑬: 多线程原理与GCD和NSOperation](https://www.jianshu.com/p/235cb3faa006)
+iOS之武功秘籍⑬: 多线程原理与GCD和NSOperation[简书地址](https://www.jianshu.com/p/235cb3faa006) [掘金地址](https://juejin.cn/post/6937199229571956767)
 
 [iOS之武功秘籍⑭: 锁的原理](https://www.jianshu.com/p/a461c668ec23)
 
