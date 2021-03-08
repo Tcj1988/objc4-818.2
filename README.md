@@ -28,7 +28,7 @@ iOS之武功秘籍⑧: 类和分类加载过程[简书地址](https://www.jiansh
 
 iOS之武功秘籍⑨: 类扩展与关联对象[简书地址](https://www.jianshu.com/p/f14deceaa6e2) [掘金地址](https://juejin.cn/post/6937166713645432845)
 
-[iOS之武功秘籍⑩: OC底层题目分析](https://www.jianshu.com/p/2221a5ed3be9)
+iOS之武功秘籍⑩: OC底层题目分析[简书地址](https://www.jianshu.com/p/2221a5ed3be9) [掘金地址](https://juejin.cn/post/6937175243823775758)
 
 ## KVC、KVO
 [iOS之武功秘籍⑪: KVC原理及自定义](https://www.jianshu.com/p/5b831e302c05)
