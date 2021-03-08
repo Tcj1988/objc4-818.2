@@ -1,0 +1,6 @@
++[ViewController load]
+_test1
+_test2
+-[tcj hello]
+-[ViewController viewDidLoad]
+_main

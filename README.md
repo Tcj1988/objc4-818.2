@@ -49,10 +49,10 @@ iOS之武功秘籍⑯: LLVM编译流程[简书地址](https://www.jianshu.com/p/
 iOS之武功秘籍⑰: Clang插件开发[简书地址](https://www.jianshu.com/p/b1fc5e519cff) [掘金地址](https://juejin.cn/post/6937229938705580068)
 
 ## 启动优化
-iOS之武功秘籍⑱: 启动优化
+iOS之武功秘籍⑱: 启动优化 [简书地址](https://www.jianshu.com/p/51dc32095a2d) [掘金地址](https://juejin.cn/post/6937261357339410462)
 
 ## 内存管理
-iOS之武功秘籍⑲: 内存管理
+iOS之武功秘籍⑲: 内存管理 
 
 ## App优化
-iOS之武功秘籍⑳: 界面优化
+iOS之武功秘籍⑳: 界面优化 
