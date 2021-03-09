@@ -52,10 +52,10 @@ iOS之武功秘籍⑰: Clang插件开发[简书地址](https://www.jianshu.com/p
 iOS之武功秘籍⑱: 启动优化 [简书地址](https://www.jianshu.com/p/51dc32095a2d) [掘金地址](https://juejin.cn/post/6937261357339410462)
 
 ## 内存管理
-iOS之武功秘籍⑲: 内存管理 []() [掘金地址]()
+iOS之武功秘籍⑲: 内存管理与NSRunLoop [简书地址](https://www.jianshu.com/p/cb07eef52f41) [掘金地址](https://juejin.cn/post/6937300616184070174)
 
 ## App优化
-iOS之武功秘籍⑳: 界面优化 []() [掘金地址]()
+iOS之武功秘籍⑳: 界面优化 [简书地址](https://www.jianshu.com/p/01015a015ab9) [掘金地址](https://juejin.cn/post/6937302554808320014)
 
 ## 组件化
-iOS之武功秘籍㉑: 组件化 []() [掘金地址]()
+iOS之武功秘籍㉑: 组件化 [简书地址](https://www.jianshu.com/p/4bf36b9dfeb4) [掘金地址](https://juejin.cn/post/6937307792659185700)
