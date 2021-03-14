@@ -17,7 +17,10 @@
 + (void)load{
     CJNSLog(@"%s",__func__);
 }
-
++ (void)initialize
+{
+    CJNSLog(@"%s",__func__);
+}
 - (void)cj_instanceMethod1{
     CJNSLog(@"%s",__func__);
 }
